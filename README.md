@@ -1,4 +1,4 @@
-# Nonlinear Dimensionality Reduction Algorithms “Comparison of LLE and Modified LLE”
+# Nonlinear Dimensionality Reduction Algorithms "Comparison of LLE and Modified LLE"
 
 This is the course project of the Advanced Machine Learning (AdML) course at EPFL (MICRO-570).<br>
 
